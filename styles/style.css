@@ -348,10 +348,3 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::after {
 .content__list-item:has(.content__card-link_current) {
   background-color: #545050;
 }
-
-.preloader-template {
-  position: absolute;
-  z-index: 1;
-  top: 0;
-  left: 0;
-}
