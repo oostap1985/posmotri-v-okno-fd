@@ -16,6 +16,11 @@ html {
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 h1,
@@ -48,14 +53,6 @@ ol {
 
 .custom-scrollbar::-webkit-scrollbar-thumb {
   background-color: #D9D9D9;
-}
-
-.page {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding-left: 30px;
-  padding-right: 30px;
 }
 
 .content {
