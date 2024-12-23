@@ -351,6 +351,7 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::after {
 
 .preloader-template {
   position: absolute;
+  z-index: 1;
   top: 0;
   left: 0;
 }
