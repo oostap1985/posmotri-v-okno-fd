@@ -138,8 +138,8 @@ ol {
   color: inherit;
   font-size: inherit;
   font-weight: inherit;
-  border-left: none;
-  border-right: none;
+  border-left: 1px solid transparent;
+  border-right: 1px solid transparent;
   border-top: 1px solid #ffffff;
   border-bottom: 1px solid #ffffff;
   line-height: 21.6px;
